@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_newpj/static/css/main.ce1b895a.css",
+    "main.js": "/react_newpj/static/js/main.75840547.js",
+    "index.html": "/react_newpj/index.html",
+    "main.ce1b895a.css.map": "/react_newpj/static/css/main.ce1b895a.css.map",
+    "main.75840547.js.map": "/react_newpj/static/js/main.75840547.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce1b895a.css",
+    "static/js/main.75840547.js"
+  ]
+}
